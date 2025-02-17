@@ -55,7 +55,7 @@
         &trans &trans &trans &trans &trans &trans  &kp &trans                                           &kp PAUSE_BREAK &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans &trans        &trans &trans &trans &trans        &kp SCROLLLOCK &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans                      &trans &trans                     &trans &trans &trans &trans  &trans  &trans
-        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans              &trans &trans &kp C_VOL_UP  &kp C_VOL_DN &trans
+        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans              &trans &trans &kp C_VOL_DN &kp C_VOL_UP &trans
       >;
     };
     mod {
